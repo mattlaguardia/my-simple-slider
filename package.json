@@ -1,0 +1,24 @@
+{
+  "name": "my-simple-slider",
+  "version": "0.0.1",
+  "description": "My super light weight slider, currently being used at Rooster Grin (dev shop)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattlaguardia/my-simple-slider.git"
+  },
+  "keywords": [
+    "Slider",
+    "Lightweight",
+    "Customizable"
+  ],
+  "author": "Matt L",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mattlaguardia/my-simple-slider/issues"
+  },
+  "homepage": "https://github.com/mattlaguardia/my-simple-slider#readme"
+}
