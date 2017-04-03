@@ -20,5 +20,13 @@
   "bugs": {
     "url": "https://github.com/mattlaguardia/my-simple-slider/issues"
   },
-  "homepage": "https://github.com/mattlaguardia/my-simple-slider#readme"
+  "homepage": "https://github.com/mattlaguardia/my-simple-slider#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-notify": "^2.2.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-sass": "^2.3.2",
+    "gulp-util": "^3.0.7",
+    "gulp-watch": "^4.3.10"
+  }
 }
