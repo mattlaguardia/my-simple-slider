@@ -19,4 +19,9 @@ $(document).ready(function(){
 	  interval: 4000
 	})
 
+	$(".thumbnail").click( function(e) {
+		var img = $(this).html();
+		$("#content-target").html(img);
+	})
+
 });
